@@ -1,7 +1,7 @@
 <div align="left">
 
 ![Rani](https://github-readme-stats.vercel.app/api?username=ranieremenezes&theme=calm_pink&show_icons=true)
-
+![Goku](https://github.com/ranieremenezes/ranieremenezes/blob/main/kid-goku.png)
 <div align="left">
   
 <a href="https://www.python.org/">![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</a>
@@ -10,11 +10,6 @@
 
 </div>
 
-<div align="left">
-
-![Goku](https://github.com/ranieremenezes/ranieremenezes/blob/main/kid-goku.png)
-
-<div align="left">
 
 <!--
 **ranieremenezes/ranieremenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
