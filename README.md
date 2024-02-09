@@ -8,6 +8,8 @@
 
 [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com.br/citations?user=v_D37YIAAAAJ&hl=pt-BR&oi=sra)
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ranieremenezes.ranieremenezes&"  />
+
 </div>
 
 
