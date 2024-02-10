@@ -4,7 +4,9 @@
 ![Goku](https://github.com/ranieremenezes/ranieremenezes/blob/main/kid-goku.png)
 <div align="left">
   
-<a href="https://www.python.org/">![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</a>
+<a href="https://github.com/ranieremenezes/easyfermi">![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</a>
+<a href="https://www.youtube.com/channel/UCeLCfEoWasUKky6CPNN_opQ">![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+
 
 [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com.br/citations?user=v_D37YIAAAAJ&hl=pt-BR&oi=sra)
 
